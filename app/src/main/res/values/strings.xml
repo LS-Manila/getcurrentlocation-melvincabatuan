@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GetDeviceLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+
+      <string name="map_ready">
+        Map is ready.
+    </string>
+
+</resources>
